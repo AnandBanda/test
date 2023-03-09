@@ -39,7 +39,8 @@ git log   =====================================> list all commits
 
 **final step 
 ```````````````
-git push -u origin master   ==================> to publish all the commits to github repository
-
+1) git push -u origin master   ==================> to publish all the commits to github repository
+2) enter username 
+3) password / token number for authentications
 
 
